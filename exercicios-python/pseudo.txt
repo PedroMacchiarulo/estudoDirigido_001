@@ -1,0 +1,19 @@
+Primeiro vamos criar as funções
+
+Primeiro precisamos saber a idade e depois saberemos
+
+LEIA idade
+
+SE idade for igual ou maior 65 ENTÃO
+
+	APAREÇA ( "Você esta incluso na terceira idade")
+
+ELIF idade for maior ou igual a 18 ENTÃO
+
+	APAREÇA ("Você não é da terceira idade")
+
+SENÃO
+
+
+	APAREÇA ("Você não se enquadra para inscrição do passaporte 
+	pois é menor de idade")
